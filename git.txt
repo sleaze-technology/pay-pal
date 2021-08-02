@@ -1,0 +1,28 @@
+What is git?
+	$Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+ 
+        Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds
+
+what is version control
+
+	$Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+	
+what is the meaing of DVCS
+ $DVCS A distributed version control system (DVCS) is a type of version control where the complete codebase — including its full version history — is mirrored on every developer's computer. It's abbreviated DVCS
+
+what is the abreviation of SCM?
+
+
+scm - stands for source code management 
+
+what is git branch 
+ git branch is a command used to list branches in your repo
+ 
+		GIT COMMANDS 
+
+TO CONFIGURE TOUR GLOBAL PEARMETERS WITH USERNAME AND EMAIL ADDRESS
+
+$ git config --global user.name "stefan choh"
+$ git config --global user.email "stefanchoh15@gmail.com"
+
+
